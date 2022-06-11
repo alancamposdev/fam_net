@@ -1,0 +1,17 @@
+.main{
+  height: 100vh;
+  display: flex;
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #c2c2c2;
+}
+.navbar{
+  background-color: blue;
+  width: 30%;
+  padding: 24px;
+}
+.feed{
+  background-color: Yellow;
+  width: 70%;
+  padding: 24px;
+}
