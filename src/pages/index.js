@@ -1,4 +1,5 @@
 import React from "react";
+
 /**Estilos */
 import "./home/header.css";
 import "./home/main.css";
@@ -12,6 +13,7 @@ function Home(){
       <main className="main">
           <div className="navbar">Navbar</div>
           <div className="feed">Feed</div>
+          
       </main>
     </div>
   )
